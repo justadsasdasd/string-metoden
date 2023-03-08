@@ -1,0 +1,12 @@
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\bin\Debug\string methoden ausgabe.exe.config
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\bin\Debug\string methoden ausgabe.exe
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\bin\Debug\string methoden ausgabe.pdb
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string methoden ausgabe.csproj.AssemblyReference.cache
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string_methoden_ausgabe.Form1.resources
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string_methoden_ausgabe.Properties.Resources.resources
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string methoden ausgabe.csproj.GenerateResource.cache
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string methoden ausgabe.csproj.CoreCompileInputs.cache
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string methoden ausgabe.exe
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string methoden ausgabe.pdb
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\bin\Debug\Guna.UI2.dll
+H:\PI\E2\string methoden ausgabe\string methoden ausgabe\obj\Debug\string methoden ausgabe.csproj.CopyComplete
